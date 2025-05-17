@@ -35,8 +35,9 @@ Live Link (https://forever-ecommerce-frontend-sepia.vercel.app/))
 
 ---
 
-🧰 Tech Stack
+🧰 Tech Stack 🧰
 🚀 Frontend
+
 -React.js – Component-based UI development
 
 -Axios – HTTP client for API communication
@@ -58,10 +59,13 @@ Live Link (https://forever-ecommerce-frontend-sepia.vercel.app/))
 
 -CORS – Handling cross-origin requests
 
+
+
 🔐 Authentication & Security
 -JWT (jsonwebtoken) – For secure login and protected routes
 
 -Bcrypt – Password hashing for user credentials
+
 
 💳 Payments
 -Razorpay Integration
